@@ -25,3 +25,6 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
+
+
+{% include feature/image.html objectid="https://cdn.britannica.com/60/161960-050-42C5704A/Medea-painting-children-Eugene-Delacroix-French.jpg?w=300" width="75" alt="Alt_text" caption="caption" link="https://cdn.britannica.com/60/161960-050-42C5704A/Medea-painting-children-Eugene-Delacroix-French.jpg?w=300"%}
